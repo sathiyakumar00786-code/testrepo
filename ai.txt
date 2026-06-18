@@ -1,0 +1,23 @@
+
+Unlock the future of intelligent agents with our step-by-step guide to becoming an Agentic AI expert in 2025! In this video we'll dive deep into the seven foundational pillars you need to master—no prior experience required.
+
+1. Fundamentals of GenAI
+Learn how large language models work under the hood: transformers, attention mechanisms, tokenization, and the key concepts driving generative AI today. We’ll cover how to evaluate model capabilities and pitfalls, and set the stage for building agentic systems.
+
+2. No-Code Tool Exploration
+Discover powerful drag-and-drop platforms—like Make.com, Zapier, and Microsoft Power Automate—that let you glue together APIs, data sources, and AI models without writing a single line of code. We’ll walk through real-world use cases and best practices.
+
+3. Prompt Engineering
+Master the art of crafting clear, concise prompts to coax optimal outputs from your models. You’ll learn prompt templates, chain-of-thought techniques, instruction tuning, and how to debug hallucinations and biases.
+
+4. Python for AI
+Get up to speed on the essential Python libraries—transformers, openai, requests, and more—that power your custom integrations. We’ll show you how to load models, manage data pipelines, and deploy simple inference APIs.
+
+5. LangChain Framework
+Dive into LangChain, the go-to framework for building composable chains, agents, and memory-enabled applications. We’ll build a sample conversational agent that dynamically calls APIs and makes decisions.
+
+6. Autogen Framework
+Explore Autogen, Meta’s open-source toolkit for orchestrating multi-agent workflows. Learn how to spin up coordinating “manager” agents, delegate sub-tasks to specialist agents, and aggregate final outputs into cohesive solutions.
+
+7. n8n + Flowise Orchestration
+Tie it all together with n8n (an open-source workflow automation tool) and Flowise (visual chatbot builder). Watch us connect your LangChain/Autogen agents to data sources, databases, and messaging platforms—fully automated and scalable
